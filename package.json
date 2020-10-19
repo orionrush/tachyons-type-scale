@@ -20,7 +20,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "tachyons-cli": "^1.3.3",
+    "tachyons-cli": "github:orionrush/cli#1.3.3-draft-build",
     "watch": "^1.0.2"
   },
   "scripts": {
@@ -34,5 +34,6 @@
   "metadata": {
     "category": "typography",
     "isCore": true
-  }
+  },
+  "dependencies": {}
 }
